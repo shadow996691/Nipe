@@ -19,7 +19,7 @@ and run.
 ./main
 ```
 the track might looks ugly. but you can add your own custom track.
-by using the regular PNG image and 128×128 pixels.
+by using the regular colors. like for example red for traps/walls, bright green for goal/finish line, Dark green for spawn/start, blue for checkpoints. put them into PNG image and 128×128 pixels
 
 
 Accessories : ✂️ 
