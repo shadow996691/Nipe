@@ -25,7 +25,11 @@ by using the regular colors. like for example red for traps/walls, bright green 
 Accessories : ✂️ 
 
 you can also check the episodes and loss by hodling CTRL.
-and if you want to save the model click left mouse button. and if you  want to change the track during the training. Just click Right mouse button and type your track in the terminal.
+and if you want to save the model click left mouse button. and if you  want to change the track during the training. Just click Right mouse button and type your track name and with his extention for example like:
+```
+track2.png
+```
+in the terminal.
 
 
 need a help ?.
